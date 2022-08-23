@@ -1,0 +1,13 @@
+{
+  "name": "JQ-Image-Drag",
+  "version": "1.0.0",
+  "description": "jQuery Image Drag plugin like Facebook Cover Picture and Thumbnails. Allows images to be positioned using mouse drag just like Facebook cover pictures and thumbnails.",
+  "main": "index.js",
+  "scripts": {
+   "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+ }
+ 
